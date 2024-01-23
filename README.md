@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 |                                                |                                                |
 |------------------------------------------------|------------------------------------------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=alex-nuclearboy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-nuclearboy&theme=tokyonight&hide_border=false" width="100%"> |
-|------------------------------------------------|------------------------------------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-nuclearboy&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="400"> |                                                |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-nuclearboy&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="100%"> |                                                |

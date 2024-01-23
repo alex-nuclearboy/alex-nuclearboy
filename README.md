@@ -5,7 +5,7 @@
 - 📫 How to reach me:
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksander_Khreptak-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/aleksander-khreptak-8a28b0263)
     - [![Gmail](https://img.shields.io/badge/Gmail-contact_me-red?style=flat-square&logo=gmail)](mailto:alex.nuclearboy@gmail.com)
-    - [![ORCID](https://img.shields.io/badge/ORCID-my_ORCID-green?style=flat-square&logo=orcid)(https://orcid.org/0000-0002-9482-9770)]
+    - [![ORCID](https://img.shields.io/badge/ORCID-my_ORCID-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-9482-9770)
 
 
 <!--

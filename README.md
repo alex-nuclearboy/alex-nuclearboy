@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I am involved in research projects focusing on exotic nuclear matter (mesic nuclei, kaonic atoms).
+- 🌱 I am expanding my technical expertise by diving into Python.
+- 📫 How to reach me:
+    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksander_Khreptak-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/aleksander-khreptak-8a28b0263)
+    - [![Gmail](https://img.shields.io/badge/Gmail-Aleksander_Khreptak-red?style=flat-square&logo=gmail)](mailto:alex.nuclearboy@gmail.com)
+    - [![ORCID]()(https://orcid.org/0000-0002-9482-9770)]
+
+
 <!--
 **alex-nuclearboy/alex-nuclearboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

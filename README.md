@@ -4,9 +4,8 @@
 - 🌱 I am expanding my technical expertise by diving into Python.
 - 📫 How to reach me:
     - [![LinkedIn Badge](https://img.shields.io/badge/-Aleksander_Khreptak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksander-khreptak-8a28b0263)](https://www.linkedin.com/in/aleksander-khreptak-8a28b0263)
-    - [![Gmail Badge](https://img.shields.io/badge/-contact_me-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.nuclearboy@gmail.com)](mailto:alex.nuclearboy@gmail.com)
+    - [![Gmail Badge](https://img.shields.io/badge/-contact_me-ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.nuclearboy@gmail.com)](mailto:alex.nuclearboy@gmail.com)
     - [![ORCID Badge](https://img.shields.io/badge/-my_ORCID-green?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-9482-9770)](https://orcid.org/0000-0002-9482-9770)
-
 
 <!--
 **alex-nuclearboy/alex-nuclearboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

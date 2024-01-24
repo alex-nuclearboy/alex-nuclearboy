@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am involved in research projects focusing on exotic nuclear matter (mesic nuclei, kaonic atoms).
+- 🔭 I am involved in research projects focusing on the study of exotic nuclear matter 
 - 🌱 I am expanding my technical expertise by diving into Python.
 - 📫 How to reach me:
     - [![LinkedIn Badge](https://img.shields.io/badge/-Aleksander_Khreptak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksander-khreptak-8a28b0263)](https://www.linkedin.com/in/aleksander-khreptak-8a28b0263)
